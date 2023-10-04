@@ -7,15 +7,27 @@ Per comprovar i validar l'apuntat del telescopi
 ## Estrelles dobles 
 Per la mesura del seeing de la nit i la resolució espacial
 
+| Nom | Ascensió recta | Declinació | Trànsit | Detalls |
+| --- | -------------- | ---------- | ------- | ------- |
+| Beta Lyrae |18h 50m 4.61s | 33º 22' 2.4'' | 18h 28m | Es poden observar les dues estrelles |
 ## Objectes del sistema solar
 
-### Planetes
+| Nom | Ascensió recta | Declinació | Trànsit | Detalls |
+| --- | -------------- | ---------- | ------- | ------- |
+|     |                |            |         |         |
 
-### Asteroides
+### Planetes i planetes nans
 
-| Nom |  Ascensió recta | Declinació | Trànsit | Detalls |
-|---|---|---|---|---|
-|
+| Nom   | Ascensió recta | Declinació      | Trànsit | Detalls                     |
+| ----- | -------------- | --------------- | ------- | --------------------------- |
+| Pluto | 20h 00m 52.97s | -23º 19' 48.1'' | 20h 43m | m = 14.00 (reduida a 14.76) |
+| Urà   |  3h 18m 47.49s |  17º 57' 40.3'' | 4h 04m | m = 5.67 ( reduida a 6.18) |
+### Llunes i Asteroides
+
+| Nom | Ascensió recta | Declinació | Trànsit | Detalls |
+| --- | -------------- | ---------- | ------- | ------- |
+| Titan |                |            |         |         |
+| Europa |                |            |         |         |
 
 ## Sistemes estel·lars (cúmuls)
 
