@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "221d1b29be77dcce",
+    "type": "split",
+    "children": [
+      {
+        "id": "28acef2d8c73a15f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac93c4d663c6e505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astronomia Observacional/Pràctica 1/Pràctica 1 - Objectes a observar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb923cbb2e5181b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "998c1ad95bc6a07c",
+    "type": "split",
+    "children": [
+      {
+        "id": "331473269ffb3753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc8e35a82ccf2ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fa2390f3747d82f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2435427fdc7aa8d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72807636946f5d38",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cc2c5e58d670154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6332b088e52ea558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Astronomia Observacional/Pràctica 1/Pràctica 1 - Objectes a observar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3434e20cbb7da514",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Astronomia Observacional/Pràctica 1/Pràctica 1 - Objectes a observar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a747a799030043a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81f20ee1aeae57bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Astronomia Observacional/Pràctica 1/Pràctica 1 - Objectes a observar.md"
+              }
+            }
+          },
+          {
+            "id": "0247d3056f188f31",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c9f3edad0faf607",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0247d3056f188f31",
+  "lastOpenFiles": [
+    "Astronomia Observacional/Pràctica 1/Pràctica 1 - Objectes a observar.md",
+    "Astronomia Observacional/Pràctica 1/objectes/M39.md",
+    "Astronomia Observacional/Pràctica 1/objectes",
+    "Astronomia Observacional/Pràctica 1",
+    "images",
+    "Astronomia Observacional/images/m32-staralt.png",
+    "Astronomia Observacional/images",
+    "M39atlas.jpg",
+    "M39atlas.jpg =100x20.md",
+    "image.gif",
+    "Astronomia Observacional"
+  ]
+}
