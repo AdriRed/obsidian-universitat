@@ -1,4 +1,4 @@
-
+	\* els trànsits són en hora local
 ## Objectes puntuals
 
 ### Estrelles brillants
@@ -31,6 +31,10 @@ Per la mesura del seeing de la nit i la resolució espacial
 
 Per familiaritzarnos amb el FOV del telescopi
 
+| Nom | Codi | Ascensió recta | Declinació | Trànsit | Detalls |
+| --- | ---- | -------------- | ---------- | ------- | ------- |
+|     | M23 |17h 57m 0s | -19° 1′ 0″ |         | potser massa baix ~10º |
+ 
 ### Objectes estesos (nebuloses, galaxies properes)
 
 
@@ -46,6 +50,14 @@ Per familiaritzarnos amb el FOV del telescopi
 
 ### Satèl·lits artificials
 
+#### SME ROCKET
+
+![[sme-rocket-passdetails.png]]
 
 
-
+|Evento|Hora|Altura|Acimut|Distancia (km)|Magnitud|Altura del Sol|
+|---|---|---|---|---|---|---|
+|Sale de la sombra|21:48:54|30°|184° (S)|1.638|5,0|-27,5°|
+|Altura máxima|21:51:45|62°|255° (OSO)|919|4,0|-28,0°|
+|Su altura es de menos de 10°|21:56:08|10°|336° (NNO)|2.092|6,2|-28,8°|
+|Se pone|21:58:03|0°|341° (NNO)|2.894|7,0|-29,1°|
