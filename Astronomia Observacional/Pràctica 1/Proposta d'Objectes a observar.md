@@ -52,7 +52,7 @@ Per familiaritzarnos amb el FOV del telescopi
 
 #### SME ROCKET
 
-![[../../images/sme-rocket-passdetails.png]]
+![[../images/sme-rocket-passdetails.png]]
 
 
 |Evento|Hora|Altura|Acimut|Distancia (km)|Magnitud|Altura del Sol|
