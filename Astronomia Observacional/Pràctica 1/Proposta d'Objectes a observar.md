@@ -1,4 +1,4 @@
-	\* els trànsits són en hora local
+\* els trànsits són en hora local
 ## Objectes puntuals
 
 ### Estrelles brillants
